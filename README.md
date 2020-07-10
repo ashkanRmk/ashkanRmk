@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I'm an IT engineering graduated currently living in Mashhad, Iran.
+
+🌱 I am always trying to look at things differently and come up with new ideas. 
+A former **Gymnastic National Champion** and now a **Web Developer**, with proficiency especially on the **back-end**(.NET), but having some experience on developing client-side too.
+
+⚡ If you’d like to get in touch, feel free to say hello through any of the social medias via `ashkanRmk` handle or visit my [blog](https://ashkanam.ir/blog/).
