@@ -10,13 +10,13 @@ A former **Gymnastic National Champion** and now a **Web Developer**, with profi
 ⚡ If you’d like to get in touch, feel free to say hello through any of the social medias via `ashkanRmk` handle or visit my [blog](https://ashkanam.ir/blog/).
 
 <a href="https://www.instagram.com/happy_developer/" target="_blank">
-  <img align="left" alt="Ashkan Rahmani | Instagram" width="24px" src="https://raw.githubusercontent.com/ashkanRmk/ashkanRmk/master/assets/insta.svg" />
+  <img align="left" alt="Ashkan Rahmani | Instagram" width="26px" src="https://raw.githubusercontent.com/ashkanRmk/ashkanRmk/master/assets/insta.svg" />
 </a>
 <a href="https://www.linkedin.com/in/ashkanRmk/" target="_blank">
-  <img align="left" alt="Ashkan Rahmani | Linkedin" width="24px" src="https://raw.githubusercontent.com/ashkanRmk/ashkanRmk/master/assets/link.svg" />
+  <img align="left" alt="Ashkan Rahmani | Linkedin" width="26px" src="https://raw.githubusercontent.com/ashkanRmk/ashkanRmk/master/assets/link.svg" />
 </a>
 <a href="https://ashkanam.ir/blog/" target="_blank">
-  <img align="left" alt="Ashkan Rahmani | Blog" width="24px" src="https://raw.githubusercontent.com/ashkanRmk/ashkanRmk/master/assets/blog.svg" />
+  <img align="left" alt="Ashkan Rahmani | Blog" width="26px" src="https://raw.githubusercontent.com/ashkanRmk/ashkanRmk/master/assets/blog.svg" />
 </a>
 
 <br />
