@@ -2,6 +2,13 @@
 
 ### Hi there 👋
 
+🔭 I'm an IT engineering graduated currently living in Mashhad, Iran.
+
+🌱 I am always trying to look at things differently and come up with new ideas. 
+A former **Gymnastic National Champion** and now a **Web Developer**, with proficiency especially on the **back-end(.NET)**, but having some experience on developing client-side too. If you want to know more about me, visit my [linkedin](https://www.linkedin.com/in/ashkanrmk/).
+
+⚡ If you’d like to get in touch, feel free to say hello through any of the social medias via `ashkanRmk` handle or visit my [blog](https://ashkanam.ir/blog/).
+
 <a href="https://www.instagram.com/happy_developer/" target="_blank">
   <img align="left" alt="Ashkan Rahmani | Instagram" width="21px" src="https://raw.githubusercontent.com/ashkanRmk/ashkanRmk/master/assets/insta.svg" />
 </a>
@@ -14,10 +21,3 @@
 
 <br />
 <br />
-
-🔭 I'm an IT engineering graduated currently living in Mashhad, Iran.
-
-🌱 I am always trying to look at things differently and come up with new ideas. 
-A former **Gymnastic National Champion** and now a **Web Developer**, with proficiency especially on the **back-end(.NET)**, but having some experience on developing client-side too. If you want to know more about me, visit my [linkedin](https://www.linkedin.com/in/ashkanrmk/).
-
-⚡ If you’d like to get in touch, feel free to say hello through any of the social medias via `ashkanRmk` handle or visit my [blog](https://ashkanam.ir/blog/).
