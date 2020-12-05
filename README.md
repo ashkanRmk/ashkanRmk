@@ -4,7 +4,7 @@
 
 <p align="center"> 
  <strong>
-  🔭  Professional skills
+  🔭  My Professional skills
   </strong>
 </p>
 
@@ -14,7 +14,7 @@
   <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="43" height="43"/>
   <img src="https://devicon.dev/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
-  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="kubernetes" width="43" height="43" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="43" height="43" />
   
 </p>
 
@@ -38,7 +38,7 @@ A former **Gymnastic National Champion** and now a **Web Developer**, with profi
  </a>
     
  <a href="https://ashkanam.ir/blog/" target="_blank">
-  <img src="https://img.icons8.com/officel/64/000000/blog.png"/>
+  <img src="https://img.icons8.com/plasticine/100/000000/blog.png"/>
  </a>
 </p>
 
