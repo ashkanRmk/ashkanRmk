@@ -26,19 +26,19 @@ A former **Gymnastic National Champion** and now a **Web Developer**, with profi
 
 <p align="center">
  <a href="https://www.linkedin.com/in/ashkanRmk/" target="_blank">
-  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
+  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="45" height="45" />
  </a>
   
  <a href="https://www.youtube.com/HappyDeveloper" target="_blank">
-  <img src="https://img.icons8.com/cute-clipart/50/000000/youtube.png"/>
+  <img src="https://img.icons8.com/cute-clipart/50/000000/youtube.png" width="45" height="45"/>
  </a>
    
  <a href="https://www.instagram.com/happy_developer/" target="_blank">
-  <img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/>
+  <img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" width="45" height="45"/>
  </a>
     
  <a href="https://ashkanam.ir/blog/" target="_blank">
-  <img src="https://img.icons8.com/plasticine/100/000000/blog.png"/>
+  <img src="https://img.icons8.com/plasticine/100/000000/blog.png" width="45" height="45"/>
  </a>
 </p>
 
