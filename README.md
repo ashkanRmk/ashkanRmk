@@ -24,7 +24,6 @@ A former **Gymnastic National Champion** and now a **Web Developer**, with profi
 ⚡ If you’d like to get in touch, feel free to say hello through any of the social medias via `ashkanRmk` handle or visit my [blog](https://ashkanam.ir/blog/).
 
 
-<p align="center">
  <a href="https://www.linkedin.com/in/ashkanRmk/" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="45" height="45" />
  </a>
@@ -40,7 +39,6 @@ A former **Gymnastic National Champion** and now a **Web Developer**, with profi
  <a href="https://ashkanam.ir/blog/" target="_blank">
   <img src="https://img.icons8.com/plasticine/100/000000/blog.png" width="45" height="45"/>
  </a>
-</p>
 
 <br />
 <br />
