@@ -35,7 +35,10 @@ A former**Gymnastic National Champion** and now a detail-oriented **Software eng
     <img src="svg/blogs/wordpress.svg" alt="wordpress" style="vertical-align:top; margin:6px 4px">
   </a>   
   
-  [![My Skills](https://img.shields.io/reddit/subreddit-subscribers/happydeveloper?style=for-the-badge&logo=appveyor)](https://www.reddit.com/r/happydeveloper/)
+  <a href="https://www.reddit.com/r/happydeveloper/" target="_blank">
+    <img src="svg/social/reddit.svg" alt="reddit" style="vertical-align:top; margin:6px 4px">
+  </a>   
+  
 
 <br />
 Also, I create contents for beginner programmer to find their ways to do their best.
