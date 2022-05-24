@@ -37,8 +37,6 @@ A former**Gymnastic National Champion** and now a detail-oriented **Software eng
   
   [![My Skills](https://img.shields.io/reddit/subreddit-subscribers/happydeveloper?style=for-the-badge&logo=appveyor)](https://www.reddit.com/r/happydeveloper/)
 
-  
-<br />
 <br />
 Also, I create contens for beginner programmer to find their ways to do their best.
 
