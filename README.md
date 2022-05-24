@@ -34,14 +34,13 @@ A former**Gymnastic National Champion** and now a detail-oriented **Software eng
    <a href="https://ashkanam.ir/blog/" target="_blank">
     <img src="svg/blogs/wordpress.svg" alt="wordpress" style="vertical-align:top; margin:6px 4px">
   </a>   
-  
-  https://img.shields.io/reddit/subreddit-subscribers/happydeveloper?style=social
+  [![My Skills](https://img.shields.io/reddit/subreddit-subscribers/happydeveloper?style=for-the-badge&logo=appveyor)](https://www.reddit.com/r/happydeveloper/)
+
   
 <br />
 <br />
 Also, I create contens for beginner programmer to find their ways to do their best.
 
-[![My Skills](https://img.shields.io/youtube/channel/subscribers/UCeoFeWoQNHozbRmwuPCLcQg?style=for-the-badge)](https://ashkanam.ir)
-https://img.shields.io/youtube/channel/subscribers/UCeoFeWoQNHozbRmwuPCLcQg?style=for-the-badge
+[![My Skills](https://img.shields.io/youtube/channel/subscribers/UCeoFeWoQNHozbRmwuPCLcQg?style=for-the-badge)](https://www.youtube.com/HappyDeveloper)
+[![My Skills](https://img.shields.io/youtube/channel/views/UCeoFeWoQNHozbRmwuPCLcQg?style=for-the-badge)](https://www.youtube.com/HappyDeveloper)
 
-https://img.shields.io/youtube/channel/views/UCeoFeWoQNHozbRmwuPCLcQg?style=for-the-badge
