@@ -15,7 +15,7 @@
 🌱 I am always trying to look at things differently and come up with new ideas. 
 A former**Gymnastic National Champion** and now a detail-oriented **Software engineer**, with proficiency especially on the **back-end** web development, but having some experience on developing client-side too :) If you want to know more about me, visit my [linkedin](https://www.linkedin.com/in/ashkanrmk/).
 
-⚡ If you’d like to get in touch, feel free to say hello through any of the social medias via `ashkanRmk` handle or visit my [blog](https://ashkanam.ir/blog/).
+⚡ If you’d like to get in touch, feel free to say hello through any of the social medias.
 
   <a href="https://www.linkedin.com/in/ashkanRmk/" target="_blank">
     <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
