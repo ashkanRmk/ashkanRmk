@@ -40,6 +40,8 @@ A former**Gymnastic National Champion** and now a detail-oriented **Software eng
 <br />
 <br />
 Also, I create contens for beginner programmer to find their ways to do their best.
-[subs](https://img.shields.io/youtube/channel/subscribers/UCeoFeWoQNHozbRmwuPCLcQg?style=for-the-badge)
 
-[views](https://img.shields.io/youtube/channel/views/UCeoFeWoQNHozbRmwuPCLcQg?style=for-the-badge)
+[![My Skills](https://img.shields.io/youtube/channel/subscribers/UCeoFeWoQNHozbRmwuPCLcQg?style=for-the-badge)](https://ashkanam.ir)
+https://img.shields.io/youtube/channel/subscribers/UCeoFeWoQNHozbRmwuPCLcQg?style=for-the-badge
+
+https://img.shields.io/youtube/channel/views/UCeoFeWoQNHozbRmwuPCLcQg?style=for-the-badge
