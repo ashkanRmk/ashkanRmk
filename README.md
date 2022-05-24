@@ -35,5 +35,11 @@ A former**Gymnastic National Champion** and now a detail-oriented **Software eng
     <img src="svg/blogs/wordpress.svg" alt="wordpress" style="vertical-align:top; margin:6px 4px">
   </a>   
   
+  https://img.shields.io/reddit/subreddit-subscribers/happydeveloper?style=social
+  
 <br />
 <br />
+Also, I create contens for beginner programmer to find their ways to do their best.
+https://img.shields.io/youtube/channel/subscribers/UCeoFeWoQNHozbRmwuPCLcQg?style=for-the-badge
+
+https://img.shields.io/youtube/channel/views/UCeoFeWoQNHozbRmwuPCLcQg?style=for-the-badge
