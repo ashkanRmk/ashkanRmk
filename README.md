@@ -13,26 +13,27 @@
 </p>
 
 🌱 I am always trying to look at things differently and come up with new ideas. 
-A former **Gymnastic National Champion** and now a **Web Developer**, with proficiency especially on the **back-end**, but having some experience on developing client-side and a lot of other stuff too :) If you want to know more about me, visit my [linkedin](https://www.linkedin.com/in/ashkanrmk/).
+A former**Gymnastic National Champion** and now a detail-oriented **Software engineer**, with proficiency especially on the **back-end** web development, but having some experience on developing client-side too :) If you want to know more about me, visit my [linkedin](https://www.linkedin.com/in/ashkanrmk/).
 
 ⚡ If you’d like to get in touch, feel free to say hello through any of the social medias via `ashkanRmk` handle or visit my [blog](https://ashkanam.ir/blog/).
 
-
- <a href="https://www.linkedin.com/in/ashkanRmk/" target="_blank">
-  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="45" height="45" />
- </a>
+  <a href="https://www.linkedin.com/in/ashkanRmk/" target="_blank">
+    <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
+  </a>  
   
- <a href="https://www.youtube.com/HappyDeveloper" target="_blank">
-  <img src="https://img.icons8.com/cute-clipart/50/000000/youtube.png" width="45" height="45"/>
- </a>
+  
+  <a href="https://www.youtube.com/HappyDeveloper" target="_blank">
+    <img src="svg/streaming/youtube.svg" alt="youtube" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  
    
- <a href="https://www.instagram.com/happy_developer/" target="_blank">
-  <img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" width="45" height="45"/>
- </a>
+  <a href="https://www.instagram.com/happy_developer/" target="_blank">
+    <img src="svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
+  </a>  
     
- <a href="https://ashkanam.ir/blog/" target="_blank">
-  <img src="https://img.icons8.com/plasticine/100/000000/blog.png" width="45" height="45"/>
- </a>
-
+   <a href="https://ashkanam.ir/blog/" target="_blank">
+    <img src="svg/blogs/wordpress.svg" alt="wordpress" style="vertical-align:top; margin:6px 4px">
+  </a>   
+  
 <br />
 <br />
